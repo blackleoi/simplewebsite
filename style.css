@@ -1,0 +1,18 @@
+<style>
+body{
+    background-color: rgba(250, 7, 7, 0.616);
+
+}
+  h1{
+    color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+  
+  h2{
+    color: #c8ff00;
+     }
+    button{
+        background-color: black;
+        color: rgb(252, 248, 248);
+    }
